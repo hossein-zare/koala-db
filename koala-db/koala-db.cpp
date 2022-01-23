@@ -9,7 +9,7 @@ int main()
 {
 	WSADATA wsa;
 	SOCKET s, new_socket;
-	struct sockaddr_in server, client;
+	struct sockaddr_in server {}, client{};
 	int c;
 	char* message;
 
