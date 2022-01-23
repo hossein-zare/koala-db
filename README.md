@@ -3,6 +3,6 @@ This repository has been created for future use and will not be actively maintai
 
 ## Possible Features
 + In-memory storage
-+ NoSQL
++ Unstructured data
 + Joins
 + Support for multi-document transactions
